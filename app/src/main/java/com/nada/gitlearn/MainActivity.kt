@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var name:String ="nada"
-        Log.d("tast","msg name $name")
+        Log.d("tt","tt")
+
     }
 }
