@@ -14,5 +14,8 @@ class MainActivity : AppCompatActivity() {
         Log.d("tt","ttnada ")
         Log.d("TAG","name $name")
 
+        val age = 4
+        Log.d("tag","age $age")
+
     }
 }
