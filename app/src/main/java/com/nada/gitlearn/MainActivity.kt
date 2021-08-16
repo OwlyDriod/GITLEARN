@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         var name:String ="nada"
         Log.d("tt","tt")
         Log.d("tt","ttnada ")
+        Log.d("TAG","name $name")
 
     }
 }
