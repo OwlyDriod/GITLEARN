@@ -2,20 +2,10 @@ package com.nada.gitlearn
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        var name:String ="nada"
-        Log.d("tt","tt")
-        Log.d("tt","ttnada ")
-        Log.d("TAG","name $name")
-
-        val age = 4
-        Log.d("tag","age $age")
-
     }
 }
