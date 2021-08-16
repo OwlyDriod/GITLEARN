@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         var name:String ="nada"
         Log.d("tt","tt")
+        Log.d("tt","ttnada 2 ")
 
     }
 }
